@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitemap by click5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-05 11:07+0000\n"
+"PO-Revision-Date: 2020-08-05 11:16+0000\n"
+"Last-Translator: c5admin\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: sitemap-by-click5.php:184
+msgid "click5 Sitemap Settings"
+msgstr "click5 Paramètres du plan du site"
+
+#: sitemap-by-click5.php:199
+msgid "HTML Sitemap"
+msgstr "Plan du site HTML"
+
+#: sitemap-by-click5.php:200
+msgid "XML Sitemap"
+msgstr "Plan du site XML"
+
+#: sitemap-by-click5.php:201
+msgid "Custom URLs"
+msgstr "URL personnalisés"
+
+#: sitemap-by-click5.php:219
+msgid "HTML Sitemap Shortcode"
+msgstr "Code HTML du plan du site"
+
+#: sitemap-by-click5.php:221
+msgid "In order to display Sitemap use that shortcode."
+msgstr "Pour afficher le plan du site utilisez ce raccourci."
+
+#: sitemap-by-click5.php:226
+msgid "General HTML Sitemap Settings"
+msgstr "Paramètres généraux du plan du site HTML"
+
+#: sitemap-by-click5.php:228
+msgid "Select post types which you want to include in your HTML Sitemap:"
+msgstr ""
+"Sélectionnez les types d'articles que vous souhaitez inclure dans votre plan "
+"de site HTML :"
+
+#: sitemap-by-click5.php:248
+msgid "Section Heading:"
+msgstr "Titre de la section :"
+
+#: sitemap-by-click5.php:256
+msgid "Select grouping type:"
+msgstr "Sélectionner le type de regroupement :"
+
+#: sitemap-by-click5.php:261 sitemap-by-click5.php:477
+msgid "Split and group by post types"
+msgstr "Séparer et regrouper par type de message"
+
+#: sitemap-by-click5.php:262 sitemap-by-click5.php:478
+msgid "Merge into one list"
+msgstr "Fusionner en une seule liste"
+
+#: sitemap-by-click5.php:267
+msgid "Pagination:"
+msgstr "Pagination :"
+
+#: sitemap-by-click5.php:271
+msgid "Items per page:"
+msgstr "Articles par page :"
+
+#: sitemap-by-click5.php:273
+msgid ""
+"Leave that field <strong>empty</strong> (or set it to <strong>0</strong>) to "
+"<strong>disable</strong> pagination."
+msgstr ""
+"Laisser ce champ <strong>vide</strong> (ou mettez le à <strong>0</strong>) à "
+"<strong>disable</strong> pagination."
+
+#: sitemap-by-click5.php:277
+msgid "URLs options:"
+msgstr "Options des URL :"
+
+#: sitemap-by-click5.php:282
+msgid "Open links in new tab"
+msgstr "Ouvrir les liens dans un nouvel onglet"
+
+#: sitemap-by-click5.php:286
+msgid "Grouping Options:"
+msgstr "Options de regroupement :"
+
+#: sitemap-by-click5.php:290
+msgid "Enable Grouping for Post Type:"
+msgstr "Activer le regroupement pour le type de poste :"
+
+#: sitemap-by-click5.php:304
+msgid "Group by:"
+msgstr "Grouper par :"
+
+#: sitemap-by-click5.php:307
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: sitemap-by-click5.php:308
+msgid "Archives"
+msgstr "Archives"
+
+#: sitemap-by-click5.php:309 sitemap-by-click5.php:444
+msgid "Categories"
+msgstr "Catégories"
+
+#: sitemap-by-click5.php:310 sitemap-by-click5.php:445
+msgid "Tags"
+msgstr "Tags"
+
+#: sitemap-by-click5.php:319
+msgid "HTML Sitemap Order"
+msgstr "Commande du plan du site HTML"
+
+#: sitemap-by-click5.php:320
+msgid "Grab & drop elements listed below to setup HTML Sitemap display order."
+msgstr ""
+"Saisissez et déposez les éléments énumérés ci-dessous pour configurer "
+"l'ordre d'affichage du plan du site HTML."
+
+#: sitemap-by-click5.php:322
+msgid "Save Order"
+msgstr "Sauvegarder l'ordre"
+
+#: sitemap-by-click5.php:323
+msgid "Reset Order"
+msgstr "Réinitialiser l'ordre"
+
+#: sitemap-by-click5.php:327
+msgid "Blacklist (HTML Sitemap)"
+msgstr "Liste noire (Plan du site HTML)"
+
+#: sitemap-by-click5.php:332 sitemap-by-click5.php:504
+msgid "Clear blacklist"
+msgstr "Vider liste noire"
+
+#: sitemap-by-click5.php:338 sitemap-by-click5.php:510
+msgid "Search for posts/pages"
+msgstr "Recherche de postes/pages"
+
+#: sitemap-by-click5.php:341 sitemap-by-click5.php:513
+msgid "Type:"
+msgstr "Tapez :"
+
+#: sitemap-by-click5.php:343 sitemap-by-click5.php:515
+msgid "All"
+msgstr "Tous"
+
+#: sitemap-by-click5.php:369
+msgid "XML Sitemap & Robots.txt"
+msgstr "Plan du site XML & Robots.txt "
+
+#: sitemap-by-click5.php:375
+msgid "Your sitemap.xml:"
+msgstr "Votre plan de site.xml :"
+
+#: sitemap-by-click5.php:395
+msgid "sitemap.xml not generated yet."
+msgstr "plan du site.xml non encore généré."
+
+#: sitemap-by-click5.php:402
+msgid "Your robots.txt:"
+msgstr "Vos robots.txt :"
+
+#: sitemap-by-click5.php:414
+msgid "General XML Sitemap Settings"
+msgstr "Paramètres XML généraux du plan du site"
+
+#: sitemap-by-click5.php:420
+msgid "Generate SEO files:"
+msgstr "Générer des fichiers SEO :"
+
+#: sitemap-by-click5.php:422
+msgid "Generate sitemap.xml"
+msgstr "Générer un plan du site .xml"
+
+#: sitemap-by-click5.php:423
+msgid "Generate robots.txt"
+msgstr "Générer des robots.txt"
+
+#: sitemap-by-click5.php:424
+msgid "Include sitemap.xml url in robots.txt"
+msgstr "Inclure l'url sitemap.xml dans robots.txt"
+
+#: sitemap-by-click5.php:428
+msgid "Include post types:"
+msgstr "Inclure les types de poste :"
+
+#: sitemap-by-click5.php:442
+msgid "Include taxonomy sitemaps:"
+msgstr "Inclure les plans de site de la taxonomie :"
+
+#: sitemap-by-click5.php:467
+msgid "Authors"
+msgstr "Auteurs"
+
+#: sitemap-by-click5.php:475
+msgid "XML Sitemap type:"
+msgstr "Plan du site de type XML :"
+
+#: sitemap-by-click5.php:480
+msgid ""
+"<strong>Splitted</strong> sitemap type is recommended for websites which "
+"have a lot of subpages."
+msgstr ""
+"<strong>Splitted</strong> Le type de plan du site est recommandé pour les "
+"sites web qui ont beaucoup de sous-pages."
+
+#: sitemap-by-click5.php:485
+msgid "Automation:"
+msgstr "Automatisation :"
+
+#: sitemap-by-click5.php:486
+msgid ""
+"Re-generate Sitemap files on each website structure change (eg. new page "
+"have been added or its content modified)"
+msgstr ""
+"Re-générer les fichiers de plan du site à chaque modification de la "
+"structure du site (par exemple, ajout d'une nouvelle page ou modification de "
+"son contenu)"
+
+#: sitemap-by-click5.php:491
+msgid "Re-generate XML Sitemap"
+msgstr "Re-générer un plan de site XML"
+
+#: sitemap-by-click5.php:499
+msgid "Blacklist (XML Sitemap)"
+msgstr "Liste noire (plan du site XML)"
+
+#: sitemap-by-click5.php:541
+msgid "Existing Custom URLs"
+msgstr "URL personnalisés existants"
+
+#: sitemap-by-click5.php:548
+msgid "No custom URLs saved yet."
+msgstr "Aucune URL personnalisée n'a encore été enregistrée."
+
+#: sitemap-by-click5.php:550
+msgid "Clear list"
+msgstr "Vider la liste"
+
+#: sitemap-by-click5.php:558
+msgid "Edit URL"
+msgstr "Modifier l'URL"
+
+#: sitemap-by-click5.php:563 sitemap-by-click5.php:630
+msgid "URL Title"
+msgstr "Titre de l'URL"
+
+#: sitemap-by-click5.php:569 sitemap-by-click5.php:636
+msgid "URL"
+msgstr "URL"
+
+#: sitemap-by-click5.php:572 sitemap-by-click5.php:639
+msgid "For eg."
+msgstr "Par exemple"
+
+#: sitemap-by-click5.php:577 sitemap-by-click5.php:644
+msgid "URL Category"
+msgstr "Catégorie d'URL"
+
+#: sitemap-by-click5.php:584 sitemap-by-click5.php:651
+msgid "Custom"
+msgstr "Personnalisation"
+
+#: sitemap-by-click5.php:598 sitemap-by-click5.php:665
+msgid "Open link in new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: sitemap-by-click5.php:601 sitemap-by-click5.php:668
+msgid "Yes"
+msgstr "Oui"
+
+#: sitemap-by-click5.php:602 sitemap-by-click5.php:669
+msgid "Used for HTML Sitemap."
+msgstr "Utilisé pour le plan de site HTML."
+
+#: sitemap-by-click5.php:607 sitemap-by-click5.php:674
+msgid "Last modification date"
+msgstr "Date de la dernière modification"
+
+#: sitemap-by-click5.php:611 sitemap-by-click5.php:678
+msgid "Used for XML Sitemap (you can leave that empty)."
+msgstr "Utilisé pour le plan de site XML (vous pouvez laisser ce champ vide)."
+
+#: sitemap-by-click5.php:616
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: sitemap-by-click5.php:617
+msgid "Cancel"
+msgstr "Annuler"
+
+#: sitemap-by-click5.php:625
+msgid "Add new URL"
+msgstr "Ajouter une nouvelle URL"
+
+#: sitemap-by-click5.php:683
+msgid "Add URL"
+msgstr "Ajouter une URL"
+
+#. Name of the plugin
+msgid "Sitemap by click5"
+msgstr "Sitemap by click5"
+
+#. Description of the plugin
+msgid "Generate and customize HTML & XML sitemaps for your website."
+msgstr "Générer et personnaliser des sitemaps HTML & XML pour votre site web."
+
+#. URI of the plugin
+msgid "https://www.click5interactive.com/wordpress-sitemap-plugin/"
+msgstr "https://www.click5interactive.com/wordpress-sitemap-plugin/"
+
+#. Author of the plugin
+msgid "click5 Interactive"
+msgstr "click5 Interactive"
+
+#. Author URI of the plugin
+msgid "https://www.click5interactive.com/"
+msgstr "https://www.click5interactive.com/"
